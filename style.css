@@ -1,3 +1,12 @@
+@font-face {
+  font-family: "Sansation Light";
+  src: url(sansation_light.woff);
+}
+
+body {
+  font-family: "Sansation Light";
+}
+
 div #top {
   color: linear-gradient(to bottom, green, blue);
 }
